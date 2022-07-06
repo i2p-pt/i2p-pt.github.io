@@ -8,4 +8,4 @@ index:
 	pandoc -s -t html \
 		-c ./css/style.css \
 		--highlight-style=tango \
-		--metadata title="torrc Editor for Go" -o index.html README.md
+		--metadata title="I2P as a Pluggable Transport" -o index.html README.md
